@@ -1,0 +1,7 @@
+p {
+  text-decoration: red wavy underline 1px;
+
+  text-transform: lowercase;
+  text-transform: uppercase;
+  text-transform: capitalize;
+}
